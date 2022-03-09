@@ -14,7 +14,7 @@ require (
 	github.com/containerd/typeurl v1.0.2
 	github.com/gogo/protobuf v1.3.2
 	github.com/golang/mock v1.6.0
-	github.com/google/go-cmp v0.5.6
+	github.com/google/go-cmp v0.5.7
 	github.com/google/go-containerregistry v0.5.1
 	github.com/google/uuid v1.3.0
 	github.com/linuxkit/virtsock v0.0.0-20201010232012-f8cee7dfc7a3

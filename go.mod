@@ -18,7 +18,7 @@ require (
 	github.com/google/go-containerregistry v0.5.1
 	github.com/google/uuid v1.3.0
 	github.com/linuxkit/virtsock v0.0.0-20201010232012-f8cee7dfc7a3
-	github.com/mattn/go-shellwords v1.0.6
+	github.com/mattn/go-shellwords v1.0.12
 	github.com/opencontainers/runc v1.0.3
 	github.com/opencontainers/runtime-spec v1.0.3-0.20210326190908-1c3f411f0417
 	github.com/pkg/errors v0.9.1

@@ -133,8 +133,8 @@ github.com/google/uuid
 # github.com/linuxkit/virtsock v0.0.0-20201010232012-f8cee7dfc7a3
 ## explicit
 github.com/linuxkit/virtsock/pkg/vsock
-# github.com/mattn/go-shellwords v1.0.6
-## explicit
+# github.com/mattn/go-shellwords v1.0.12
+## explicit; go 1.13
 github.com/mattn/go-shellwords
 # github.com/moby/sys/mountinfo v0.4.1
 ## explicit; go 1.14
